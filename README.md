@@ -1,3 +1,5 @@
 # Rudig_Sailer
-
-``const Sailer =  gay ``
+```javascript
+const rudig = "Gay";
+alert(rudig);
+```
