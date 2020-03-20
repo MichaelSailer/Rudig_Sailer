@@ -1,5 +1,5 @@
 # Rudig_Sailer
 ```javascript
-const rudig = "Gay";
-alert(rudig);
+const sailer = "Gay";
+prompt(sailer,"ja","ja");
 ```
