@@ -1,3 +1,3 @@
 # Rudig_Sailer
 
-``javascript const Sailer =  gay ``
+``const Sailer =  gay ``
