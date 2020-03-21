@@ -1,0 +1,36 @@
+.Login{
+    background-color: rgb(86, 134, 189);
+    text-align: center;
+    justify-content: space-around;
+
+}
+
+.user{
+    background-color: rgb(86, 134, 189);  
+    display: flex;  
+    justify-content: center;
+}
+.user input{
+    height: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 30px;
+}
+
+.password{
+    background-color: rgb(86, 134, 189);  
+    display: flex;  
+    justify-content: center;
+}
+.password input{
+    height: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 30px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+
