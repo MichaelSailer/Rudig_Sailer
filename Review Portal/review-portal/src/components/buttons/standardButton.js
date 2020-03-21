@@ -1,5 +1,5 @@
 import React from "react";
-import classes from "./button.module.css";
+import classes from "./standardButton.module.css";
 import { withRouter } from "react-router-dom";
 
 function ButtonLogin(props) {

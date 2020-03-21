@@ -1,4 +1,4 @@
-.Login {
+.LoginContent {
   background-color: #f39f68;
   text-align: center;
   justify-content: space-around;
@@ -8,6 +8,7 @@
   border: 5px solid black;
   border-radius: 8px;
   padding-bottom: 20px;
+  margin-top: 15%;
 }
 
 .user {

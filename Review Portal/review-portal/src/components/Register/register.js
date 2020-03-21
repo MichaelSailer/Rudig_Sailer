@@ -1,12 +1,12 @@
-import React from 'react'
+import React from "react";
+import classes from "./register.module.css";
 
-function Register(){
-    return(
-        <div>
-            <h1>Register</h1>
-        </div>
-
-    );
+function Register() {
+  return (
+    <div className={classes.Register}>
+      <h1>Register</h1>
+    </div>
+  );
 }
 
 export default Register;
