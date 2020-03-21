@@ -1,12 +1,18 @@
 .Login{
-    background-color: rgb(86, 134, 189);
+    background-color: #c1e8ff;
     text-align: center;
     justify-content: space-around;
-
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+    border: 5px solid black;
+    border-radius: 8px;
+    padding-bottom: 20px;
 }
 
 .user{
-    background-color: rgb(86, 134, 189);  
+    background-color: #c1e8ff; 
     display: flex;  
     justify-content: center;
 }
@@ -15,10 +21,12 @@
     margin-top: auto;
     margin-bottom: auto;
     margin-left: 30px;
+    border-radius: 5px;
+    border: 2px solid white;
 }
 
 .password{
-    background-color: rgb(86, 134, 189);  
+    background-color: #c1e8ff;
     display: flex;  
     justify-content: center;
 }
@@ -27,7 +35,10 @@
     margin-top: auto;
     margin-bottom: auto;
     margin-left: 30px;
+    border-radius: 5px;
+    border: 2px solid white;
 }
+
 
 .buttons{
     display: flex;
