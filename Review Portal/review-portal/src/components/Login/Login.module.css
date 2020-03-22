@@ -11,34 +11,6 @@
   margin-top: 15%;
 }
 
-.user {
-  background-color: #f39f68;
-  display: flex;
-  justify-content: center;
-}
-.user input {
-  height: 30px;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: 30px;
-  border-radius: 5px;
-  border: 2px solid white;
-}
-
-.password {
-  background-color: #f39f68;
-  display: flex;
-  justify-content: center;
-}
-.password input {
-  height: 30px;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: 30px;
-  border-radius: 5px;
-  border: 2px solid white;
-}
-
 .buttons {
   display: flex;
   justify-content: center;

@@ -1,0 +1,14 @@
+.inputField {
+    background-color: #f39f68;
+    display: flex;
+    justify-content: center;
+}
+
+.inputField input {
+    height: 30px;
+    margin-top: auto;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 2px solid white;
+}
