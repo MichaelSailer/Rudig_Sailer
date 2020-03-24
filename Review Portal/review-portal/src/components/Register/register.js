@@ -12,7 +12,7 @@ function Register() {
           <p>Bitte geben sie alle Daten ein</p>
           <RegisterField /> 
           <div className={classes.buttons}>        
-            <ButtonRegister text="Register"/>      
+            <ButtonRegister text="Register" type="main"/>      
             <ButtonRegister text="Home" type="home"/>
           </div>
       </div>

@@ -11,7 +11,7 @@ function UserLogin() {
         <p>Please Enter Username and Passwort</p>
         <LoginField />
         <div className={classes.buttons}>
-          <ButtonLogin type="login" text="Login" />
+          <ButtonLogin type="main" text="Login" />
           <ButtonLogin type="register" text="Register"></ButtonLogin>
         </div>
       </div>

@@ -11,6 +11,8 @@ function ButtonLogin(props) {
       props.history.push("/register");
     }else if(props.type === "home"){
       props.history.push("/");
+    }else if(props.type === "main"){
+      props.history.push("/main")
     }
   }
 

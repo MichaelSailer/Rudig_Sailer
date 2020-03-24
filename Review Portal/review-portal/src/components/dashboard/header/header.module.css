@@ -1,14 +1,29 @@
 .header{
-    height:20px;
     display: flex;
     justify-content: space-between;
-    border: 3px solid black;
 }
 
 .userDetails{
-    height: 20px;
+    height: 40px;
     display: flex;
-    justify-content: space-between;
-    border: 3px solid black;
+    justify-content: space-between ;
+    width: 200px;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 15px;
+    font-size: 45px;
+}
+.userInformation{
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    line-height: 0;
+}
+.settings{
+    margin-top: 10px;
+    margin-right: 35px;
+    font-size: 40px;
+}
 
+.title{
 }
